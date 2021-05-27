@@ -9,14 +9,16 @@ img {
   height: 300px;
 }
 
+.column p, .column h3{
+  font-style: italic;
+  font-family: serif;
+}
+
 h3 {
   font-style: normal;
 }
 
-.column p, h3 {
-  font-style: italic;
-  font-family: serif;
-}
+
 
 .column{
   width: 300px;
